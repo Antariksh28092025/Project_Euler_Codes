@@ -10,4 +10,7 @@ int main(){
     }
     cout<< "The Sum of all the integers satisfying the condition given: " << sum <<endl;
     return 0;
+
+
+    
 }
