@@ -11,6 +11,7 @@ int countDivisors(long long n) {
             n /= i;
             power++;
         }
+        
 
         if (power > 0) {
             divisors *= (power + 1);
